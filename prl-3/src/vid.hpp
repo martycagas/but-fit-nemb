@@ -1,5 +1,5 @@
 /*
- * VISIBILITY
+ * VISIBILITY ALGORITHM
  * 
  * Brno University of Technology,
  * Parallel and Distributed Algorithms course

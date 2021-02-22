@@ -2,7 +2,7 @@
 #@FILE: test.sh
 
 # Parallel and Distributed Algorithms course
-# Project 2
+# Project 3
 # Preparation, compilation and execution script
 # Author: Martin Cagas <xcagas01@stud.fit.vutbr.cz>
 
