@@ -11,7 +11,7 @@ BraceWrapping:
   AfterClass: true
   SplitEmptyFunction: true
   AfterControlStatement: false
-  AfterNamespace: false
+  AfterNamespace: true
   AfterFunction: true
   AfterUnion: true
   AfterExternBlock: false
